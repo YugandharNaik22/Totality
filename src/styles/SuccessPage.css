@@ -1,0 +1,72 @@
+/* src/styles/SuccessPage.css */
+.success-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .success-image {
+    width: 50px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle; /* Align with text */
+    margin-right: 10px; /* Space between image and text */
+  }
+  .p{
+    color: rgb(14, 128, 14);
+  }
+  /* src/styles/SuccessPage.css */
+.success-page {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f8ff; /* Light blue background */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.success-image {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-bottom: 10px;
+  animation: bounce 1s infinite; /* Add bounce animation */
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+.p {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.confirmation-message {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #28a745; /* Green color for confirmation */
+  margin-top: 20px;
+}
+
+.success-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #007bff; /* Blue button */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-left: 30px;
+}
+
+.success-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

@@ -1,0 +1,43 @@
+/* src/components/PropertyCard.css */
+.property-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left; /* Change text alignment to left */
+}
+
+.property-image {
+ 
+  height: 35vh !important;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.property-card p {
+  margin: 8px 0;
+}
+
+.property-card strong {
+  font-weight: bold;
+}
+
+.button {
+  display: inline-block; /* Ensure it behaves like a button */
+  background-color: limegreen;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 10px; /* Add spacing if needed */
+  text-align: center; /* Ensure button text is centered */
+}
+
+.button:hover {
+  background-color: black;
+}

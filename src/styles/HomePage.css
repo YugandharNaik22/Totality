@@ -1,0 +1,76 @@
+/* src/styles/HomePage.css */
+.home-page {
+    padding: 20px;
+  }
+  
+  .filter {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkslateblue;
+  }
+  
+  .property-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  
+  .property-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .property-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 12px;
+  }
+  
+  .property-card h3 {
+    margin: 12px 0;
+  }
+  
+  .property-card button {
+    background-color: slateblue;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .property-card button:hover {
+    background-color: black;
+  }
+/* src/styles/HomePage.css */
+.apply-filters-button,
+.clear-filters-button {
+  background-color:indianred;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0 10px; /* Add space between buttons */
+}
+
+.apply-filters-button:hover,
+.clear-filters-button:hover {
+  background-color: black;
+}

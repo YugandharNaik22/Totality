@@ -1,0 +1,21 @@
+/* src/components/PaymentForm.css */
+.payment-details {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .payment-details pre {
+    /* Light background for the preformatted text */
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .payment-details .key {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .payment-details .value {
+    color: #555;
+  }
+  

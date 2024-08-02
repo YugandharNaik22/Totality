@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Sunny Retreat",
+    "location": "Austin",
+    "price": 120,
+    "bedrooms": 2,
+    "amenities": "wifi, parking",
+    "imageUrl": "https://thestoreys.in/wp-content/uploads/2022/08/NEW-RESIDENTIAL-PROJECTS.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chic Residence",
+    "location": "Seattle",
+    "price": 450,
+    "bedrooms": 4,
+    "amenities": "pool, wifi, parking",
+    "imageUrl": "https://ichef.bbci.co.uk/images/ic/480xn/p0h9k5dl.jpg.webp"
+  },
+  {
+    "id": 3,
+    "name": "Urban Oasis",
+    "location": "San Diego",
+    "price": 180,
+    "bedrooms": 1,
+    "amenities": "wifi, gym",
+    "imageUrl": "https://goodhomes.wwmindia.com/content/2022/jun/infusing-wood-in-this-neutral-themed-home.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Coastal Retreat",
+    "location": "Santa Barbara",
+    "price": 320,
+    "bedrooms": 3,
+    "amenities": "pool, beach access, wifi",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpeq3SExqdc_2MgZeCZVrAeCNtbJbnuMI1mw&s"
+  },
+  {
+    "id": 5,
+    "name": "Forest Lodge",
+    "location": "Asheville",
+    "price": 170,
+    "bedrooms": 2,
+    "amenities": "wifi, fireplace",
+    "imageUrl": "https://www.shutterstock.com/image-photo/real-estate-luxury-interior-design-260nw-1009121890.jpg"
+  },
+  {
+    "id": 6,
+    "name": "City Hideaway",
+    "location": "Philadelphia",
+    "price": 140,
+    "bedrooms": 1,
+    "amenities": "wifi, parking",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9kxfpU-WOE2g9ogH076YPJB-6FRL6Ja0v_A&s"
+  },
+  {
+    "id": 7,
+    "name": "Rural Retreat",
+    "location": "Savannah",
+    "price": 275,
+    "bedrooms": 4,
+    "amenities": "wifi, garden",
+    "imageUrl": "https://i.pinimg.com/564x/34/14/de/3414de7d6adedf86f054d829785dd50b.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Skyline Penthouse",
+    "location": "New York",
+    "price": 650,
+    "bedrooms": 3,
+    "amenities": "pool, wifi, casino access",
+    "imageUrl": "https://www.shutterstock.com/image-photo/marseille-france-september-10-2023-600nw-2362014143.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Lakeside Cottage",
+    "location": "Cleveland",
+    "price": 200,
+    "bedrooms": 2,
+    "amenities": "wifi, lake view",
+    "imageUrl": "https://i.pinimg.com/736x/94/c1/0e/94c10edd69cfde7557a7cd0332a80087.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Metropolitan Loft",
+    "location": "Atlanta",
+    "price": 250,
+    "bedrooms": 2,
+    "amenities": "wifi, gym, parking",
+    "imageUrl": "https://st.depositphotos.com/1041088/4098/i/450/depositphotos_40982679-stock-photo-home-gym-interior.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Seaside Villa",
+    "location": "Charleston",
+    "price": 300,
+    "bedrooms": 3,
+    "amenities": "wifi, beach access",
+    "imageUrl": "https://www.decorilla.com/online-decorating/wp-content/uploads/2022/01/Casual-beach-house-interior-design-by-Decorilla-designer-Wanda-P.-.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Mountain Retreat",
+    "location": "Aspen",
+    "price": 400,
+    "bedrooms": 4,
+    "amenities": "wifi, fireplace, ski access",
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/af/b2/ab/trout-house-village-resort.jpg?w=700&h=-1&s=1"
+  },
+  {
+    "id": 13,
+    "name": "Countryside Estate",
+    "location": "Lexington",
+    "price": 220,
+    "bedrooms": 5,
+    "amenities": "wifi, garden, pool",
+    "imageUrl": "https://media.architecturaldigest.com/photos/55e76ffacd709ad62e8eeb85/master/w_320%2Cc_limit/dam-images-decor-2015-01-kundig-architects-cascade-mountains-olson-kundig-architects-achison-cascade-mountain-home-04-living-wm.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Elegant Loft",
+    "location": "San Francisco",
+    "price": 550,
+    "bedrooms": 2,
+    "amenities": "wifi, gym, city view",
+    "imageUrl": "https://cdn.homedsgn.com/wp-content/uploads/2018/04/Guinness-Storehouse.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Rustic Cabin",
+    "location": "Jackson Hole",
+    "price": 280,
+    "bedrooms": 3,
+    "amenities": "wifi, fireplace, hiking",
+    "imageUrl": "https://t3.ftcdn.net/jpg/06/49/44/06/360_F_649440697_FvN6cpumAXwE2F77RjGbv1m71LjEXw9l.jpg"
+  }
+]
